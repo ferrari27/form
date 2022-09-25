@@ -1,0 +1,33 @@
+.mitad1{
+    background-color: #ffffff;
+    height: 75vh;
+    width: 50%;
+    border-end-start-radius: 25px;
+    border-start-start-radius: 25px;
+}
+.mitad2{
+    background-color:#4835d4;
+    height: 75vh;
+    width: 50%;
+    border-start-end-radius: 25px;
+    border-end-end-radius: 25px;
+}
+
+.body{
+    background-color: #8dbeea;
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.entrada{
+    border-bottom: black;
+}
+.fieldsetBorder{
+    border:none;
+}
+html {
+    height: 100%;
+}
